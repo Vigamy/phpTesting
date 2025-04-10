@@ -1,0 +1,46 @@
+[
+    {
+        "tarefa": "Eu amo",
+        "feita": false
+    },
+    {
+        "tarefa": "O que",
+        "feita": false
+    },
+    {
+        "tarefa": "Php",
+        "feita": false
+    },
+    {
+        "tarefa": " Aff tchau",
+        "feita": false
+    },
+    {
+        "tarefa": "Tchau",
+        "feita": false
+    },
+    {
+        "tarefa": "Era pra vc ter falado \"Tchau pipoca\"",
+        "feita": false
+    },
+    {
+        "tarefa": "Oxe pq?",
+        "feita": false
+    },
+    {
+        "tarefa": "Nada nn, esquece",
+        "feita": false
+    },
+    {
+        "tarefa": "Tabom, bom, eu ja vou indo ent\u00e3o",
+        "feita": false
+    },
+    {
+        "tarefa": "Tabom, tchau",
+        "feita": false
+    },
+    {
+        "tarefa": "Tchau pipoca",
+        "feita": true
+    }
+]
